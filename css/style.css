@@ -1,0 +1,21 @@
+.info {
+    padding: 0 5px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 150px;
+    height: 36px;
+    line-height: 36px;
+    border-radius: 8px;
+    background-color: #F25A7E;
+    font-weight: bold;
+    color: #fff;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.user-info {
+    display: flex;
+    justify-content: end;
+    margin-bottom: 5px;
+}
